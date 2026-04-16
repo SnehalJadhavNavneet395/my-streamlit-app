@@ -31,3 +31,6 @@ langchain-openai
 langchain-community
 langgraph
 openai
+rank_bm25
+convertdate
+hijridate
